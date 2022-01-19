@@ -1,0 +1,5 @@
+{
+    
+    "baseURL" : "http://localhost:8600/v",
+    "allowedClick" : 1
+}
